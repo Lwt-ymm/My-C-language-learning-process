@@ -1,0 +1,2 @@
+D:\VS\myfils\Project2\Debug\Project2.exe
+D:\VS\myfils\Project2\Debug\Project2.pdb
