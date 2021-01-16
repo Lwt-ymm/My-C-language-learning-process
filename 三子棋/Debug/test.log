@@ -1,0 +1,4 @@
+﻿D:\VS\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(test.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Game.c
+  test.vcxproj -> D:\VS\myfils\test\Debug\XO.exe
