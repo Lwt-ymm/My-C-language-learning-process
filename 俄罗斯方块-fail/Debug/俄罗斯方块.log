@@ -1,0 +1,3 @@
+﻿  Tetris.c
+D:\VS\myfils\俄罗斯方块\Tetris.c(380,19): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  俄罗斯方块.vcxproj -> D:\VS\myfils\俄罗斯方块\Debug\俄罗斯方块.exe
