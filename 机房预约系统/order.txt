@@ -1,0 +1,1 @@
+data:1 time:1 room:1 stuid:1 stuname:ÕÅÈı state:1
