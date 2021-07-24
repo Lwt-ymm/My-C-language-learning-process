@@ -5,8 +5,8 @@ using namespace std;
 //作业：朋友圈
 class UnionSet {
 public:
-    UnionSet(int n) : root(vector<int>(n)) {
-        for(int i = 0; i < n; i++) {
+    UnionSet(int n) : root(vector<int>(n + 1)) {
+        for(int i = 0; i <= n; i++) {
             root[i] = i;
         }
     }
